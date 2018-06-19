@@ -7,7 +7,7 @@ end
 def meals(breakfast="frosted flakes", lunch="grilled cheese", dinner="salmon")
   puts "Morning is the best time for #{breakfast}. By noon, you should eat some #{lunch}. Later, you should eat some #{dinner}."
 end
-meals("cereal", "tomato_soup", "Hamburger")
+meals("cereal", "tomato_soup", "hamburger")
 
 
 
